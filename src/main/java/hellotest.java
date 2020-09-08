@@ -11,5 +11,8 @@ public class hellotest {
         for (int h=0;h<100;h++){
             System.out.println("h"+h);
         }
+        for (int n=0;n<100;n++){
+            System.out.println("n"+n);
+        }
 }
 }
