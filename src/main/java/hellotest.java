@@ -8,5 +8,8 @@ public class hellotest {
         for (int j=0;j<100;j++){
             System.out.println(j);
         }
+        for(int k=0;k<100;k++){
+           System.out.println(k);
+        }
 }
 }
